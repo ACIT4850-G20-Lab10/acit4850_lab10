@@ -1,5 +1,4 @@
 Newest changes at top:
-
-3/29/2016 13:53 PM: Completed time.xml
-3/29/2016 10:54 AM: Completed schedule.xsd for courses.xml
-3/24/2016 01:07 PM: Completed schedule.xsd for days.xml
+05 April 2016 12:10PM: completed courses.xsl for courses.xml
+04 April 2016 04:18PM: completed days.xsl for days.xml
+31 March 2016 12:55PM: completed times.xsl for times.xml

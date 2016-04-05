@@ -11,7 +11,7 @@ and open the template in the editor.
 <week xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
     xsi:noNamespaceSchemaLocation='schedule.xsd'>
     <times>
-        <start>1030</start>
+        <start>1030</start> 
         <days type="tuesday">
             <course type="acit">
                 <id>4620</id>
